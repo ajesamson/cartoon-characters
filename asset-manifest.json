@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ajesamson/cartoon-characters/static/css/main.994fa506.chunk.css",
-    "main.js": "/ajesamson/cartoon-characters/static/js/main.0676b7c3.chunk.js",
-    "main.js.map": "/ajesamson/cartoon-characters/static/js/main.0676b7c3.chunk.js.map",
-    "runtime-main.js": "/ajesamson/cartoon-characters/static/js/runtime-main.493d4fe9.js",
-    "runtime-main.js.map": "/ajesamson/cartoon-characters/static/js/runtime-main.493d4fe9.js.map",
-    "static/js/2.3919333d.chunk.js": "/ajesamson/cartoon-characters/static/js/2.3919333d.chunk.js",
-    "static/js/2.3919333d.chunk.js.map": "/ajesamson/cartoon-characters/static/js/2.3919333d.chunk.js.map",
-    "static/js/3.23dd7798.chunk.js": "/ajesamson/cartoon-characters/static/js/3.23dd7798.chunk.js",
-    "static/js/3.23dd7798.chunk.js.map": "/ajesamson/cartoon-characters/static/js/3.23dd7798.chunk.js.map",
-    "index.html": "/ajesamson/cartoon-characters/index.html",
-    "static/css/main.994fa506.chunk.css.map": "/ajesamson/cartoon-characters/static/css/main.994fa506.chunk.css.map",
-    "static/js/2.3919333d.chunk.js.LICENSE.txt": "/ajesamson/cartoon-characters/static/js/2.3919333d.chunk.js.LICENSE.txt"
+    "main.css": "/cartoon-characters/static/css/main.994fa506.chunk.css",
+    "main.js": "/cartoon-characters/static/js/main.0676b7c3.chunk.js",
+    "main.js.map": "/cartoon-characters/static/js/main.0676b7c3.chunk.js.map",
+    "runtime-main.js": "/cartoon-characters/static/js/runtime-main.638c24cd.js",
+    "runtime-main.js.map": "/cartoon-characters/static/js/runtime-main.638c24cd.js.map",
+    "static/js/2.3919333d.chunk.js": "/cartoon-characters/static/js/2.3919333d.chunk.js",
+    "static/js/2.3919333d.chunk.js.map": "/cartoon-characters/static/js/2.3919333d.chunk.js.map",
+    "static/js/3.23dd7798.chunk.js": "/cartoon-characters/static/js/3.23dd7798.chunk.js",
+    "static/js/3.23dd7798.chunk.js.map": "/cartoon-characters/static/js/3.23dd7798.chunk.js.map",
+    "index.html": "/cartoon-characters/index.html",
+    "static/css/main.994fa506.chunk.css.map": "/cartoon-characters/static/css/main.994fa506.chunk.css.map",
+    "static/js/2.3919333d.chunk.js.LICENSE.txt": "/cartoon-characters/static/js/2.3919333d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.493d4fe9.js",
+    "static/js/runtime-main.638c24cd.js",
     "static/js/2.3919333d.chunk.js",
     "static/css/main.994fa506.chunk.css",
     "static/js/main.0676b7c3.chunk.js"
